@@ -1,4 +1,3 @@
-# Augmented-Reality-Blender-Unity
 # Semperoper, Dresden, Germany
 
 Video of application at https://drive.google.com/file/d/1XBwukgrrQ-O3PVcf4xQOSgKlsm6rNXnH/view?usp=sharing
